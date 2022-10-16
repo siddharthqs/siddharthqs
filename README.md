@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust, Option pricing and Trading
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on rust_quant
-- 📫 How to reach me ...
+- 📫 website: https://siddharthqs.com/
 
 <!---
 siddharthqs/siddharthqs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
