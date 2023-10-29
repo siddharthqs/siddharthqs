@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddharthqs
 - 👀 I’m interested in Rust, Option pricing and Trading
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on rust_quant
+- 💞️ I’m looking to collaborate on RustyQlib
 - 📫 website: https://siddharthqs.com/
 
 <!---
